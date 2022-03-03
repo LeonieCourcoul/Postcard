@@ -1,40 +1,42 @@
 ---
-title: "Léonie Courcoul 1"
+title: "Léonie Courcoul"
 image: "leo.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://www.linkedin.com/in/léonie-courcoul/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/Leonie498"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "leonie.courcoul@u-bordeaux.fr"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Hi ! I'm Léonie Courcoul. I am a PhD student in Biostatistics at the university of Bordeaux (France). My thesis work are focused on the development of models to study the impact of the variability of blood pressure on the risk of stroke.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Bordeaux Population Health, Inserm U1219** | Bordeaux, FRANCE
 
-Ph.D. in Computer Science | September 2009 - May 2014
+Ph.D. in Biostatistics | November 2021 - now
 
-**The University of California, Berkeley** | Berkeley, CA
+**ENSAI** | Bruz, FRANCE
 
-B.S. in Computer Science | September 2005 - May 2009
+Engineer in Statistics | 2018 - 2021
+
+**University of Rennes 1** | Rennes, FRANCE
+
+MSc in Bioinformatic | 2020 - 2021
+
+**University of Rennes 1** | Rennes, FRANCE
+
+MSc in Bioinformatic | 2020 - 2021
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Bordeaux Population Health, Inserm U1219** | Bordeaux, FRANCE 
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+PhD Student | November 2021 - Present
+
