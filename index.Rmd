@@ -14,11 +14,11 @@ output:
 
 ## Bio
 
-Hi ! I'm Léonie Courcoul. I am a PhD student in Biostatistics at the [University of Bordeaux (France)](https://www.u-bordeaux.fr/), in the [Biostatistic team](https://www.bordeaux-population-health.center/les-equipes/biostatistique/) from [Bordeaux population heath center (INSERM UMR1219)](https://www.bordeaux-population-health.center/en/) since November 2021. I do my research under the supervision of Hélène Jacqmin-Gadda and [Antoine Barbieri](https://antoinebarbieri.netlify.app/). My thesis work are focused on the development of statistical models to study the impact of the variability of blood pressure on the risk of various clinical events such as stroke and dementia.
+Hi ! I'm Léonie Courcoul. I am a PhD student in Biostatistics at the [University of Bordeaux (France)](https://www.u-bordeaux.fr/), in the [Biostatistic team](https://www.bordeaux-population-health.center/les-equipes/biostatistique/) from [Bordeaux Population Health Center (INSERM U1219)](https://www.bordeaux-population-health.center/en/) since November 2021. I do my research under the supervision of Hélène Jacqmin-Gadda and [Antoine Barbieri](https://antoinebarbieri.netlify.app/). My thesis work are focused on the development of statistical models to study the impact of the variability of blood pressure on the risk of various clinical events such as stroke and dementia.
 
 ## Education
 
-* [**Bordeaux population heath center (INSERM UMR1219)**](https://www.bordeaux-population-health.center/en/) \| Bordeaux, FRANCE
+* [**Bordeaux Population Health Center (INSERM U1219)**](https://www.bordeaux-population-health.center/en/) \| Bordeaux, FRANCE
 
 Ph.D. in Biostatistics \| November 2021 - now
 
@@ -32,7 +32,7 @@ MSc in Bioinformatic \| 2020 - 2021
 
 ## Professional experiences
 
-[**Bordeaux population heath center (INSERM UMR1219)**](https://www.bordeaux-population-health.center/en/) \| Bordeaux, FRANCE
+[**Bordeaux Population Health Center (INSERM U1219)**](https://www.bordeaux-population-health.center/en/) \| Bordeaux, FRANCE
 
 PhD Student \| November 2021 - Present
 
