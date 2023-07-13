@@ -14,29 +14,51 @@ output:
  
 ## Bio
 
-Hi ! I'm Léonie Courcoul. I am a PhD student in Biostatistics at the university of Bordeaux (France). My thesis work are focused on the development of models to study the impact of the variability of blood pressure on the risk of stroke.
+Hi ! I'm Léonie Courcoul. I am a PhD student in Biostatistics at the [University of Bordeaux (France)](https://www.u-bordeaux.fr/), in the [Biostatistic team](https://www.bordeaux-population-health.center/les-equipes/biostatistique/) from [Bordeaux population heath center (INSERM UMR1219)](https://www.bordeaux-population-health.center/en/) since November 2021. I do my research under the supervision of Hélène Jacqmin-Gadda and [Antoine Barbieri] (https://antoinebarbieri.netlify.app/). My thesis work are focused on the development of statistical models to study the impact of the variability of blood pressure on the risk of various clinical events such as stroke and dementia. 
 
 ## Education
 
-**Bordeaux Population Health, Inserm U1219** | Bordeaux, FRANCE
+**[Bordeaux population heath center (INSERM UMR1219)](https://www.bordeaux-population-health.center/en/)** | Bordeaux, FRANCE
 
 Ph.D. in Biostatistics | November 2021 - now
 
-**ENSAI** | Bruz, FRANCE
+**[ENSAI] (https://ensai.fr/en/)** | Bruz, FRANCE
 
-Engineer in Statistics | 2018 - 2021
+Engineer in Data Science with a specialisation in Biostatistics | 2018 - 2021
 
-**University of Rennes 1** | Rennes, FRANCE
-
-MSc in Bioinformatic | 2020 - 2021
-
-**University of Rennes 1** | Rennes, FRANCE
+**[University of Rennes 1](https://formations.univ-rennes.fr/master-mention-bio-informatique-parcours-informatique-pour-la-biologie-et-la-sante-ibisa)** | Rennes, FRANCE
 
 MSc in Bioinformatic | 2020 - 2021
 
-## Experience
+## Professional experiences
 
-**Bordeaux Population Health, Inserm U1219** | Bordeaux, FRANCE 
+**[Bordeaux population heath center (INSERM UMR1219)](https://www.bordeaux-population-health.center/en/)** | Bordeaux, FRANCE 
 
 PhD Student | November 2021 - Present
+
+## Publications
+
+* **Courcoul L**, Tzourio C, Woodward M, Barbieri A, Jacqmin-Gadda H. **A location-scale joint model for studying the link between the time-dependent subject-specific variability of blood pressure and competing events.** 2023.
+[[ArXiv]](https://arxiv.org/abs/2306.16785)
+
+## Communications
+
+* **Oral presentation - SAFJR 2023** | Ulm, Germany | Sept 2023
+
+* **Oral presentation - Student award - ISCB 2023** | Milan, Italy | Aug 2023
+
+* **Oral presentation - French Biostatistic Days** | Rennes, France | Dec 2022
+
+* **Poster - ISH** | Japan (remote) | Oct 2022
+
+* **Oral presentation - IBC 2022** | Riga, Latvia | July 2022
+
+* **Oral presentation - JDS 2022** | Lyon, France | June 2022
+
+## Software
+
+* **FlexVarJM** is a downloadable R-package from GitHub. This package concerns the estimation of a joint model with subject-specific time-dependent variability
+[[GitHub]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.16807)
+
+
 
