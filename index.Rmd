@@ -3,7 +3,7 @@ title: "Léonie Courcoul"
 image: "leo.jpg"
 links:
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/léonie-courcoul/"
+    url: "https://www.linkedin.com/in/leonie-courcoul/"
   - label: GitHub
     url: "https://github.com/LeonieCourcoul"
   - label: Email
